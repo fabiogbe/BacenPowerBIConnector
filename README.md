@@ -7,7 +7,6 @@ This document provides instructions on how to use and set up a Power BI Custom C
 **Prerequisites**
 - Power BI Desktop.
 - A .mez file (Power BI Custom Connector).
-- An internet connection to authenticate the connector.
 
 **Step-by-step Instructions**
 
@@ -39,7 +38,7 @@ _Note: The steps may slightly vary depending on the operating system._
    For Windows, it's typically: “Documents/Power BI Desktop/Custom Connectors”.
 
 2. If the “Custom Connectors” folder does not exist, please create it.
-3. Copy the “.mez” file (Custom Connector) into the “Custom Connectors” directory.
+3. Download the "BacenConnector.mez" file found in this repository, and copy it into the “Custom Connectors” directory.
 
 _Note: If Power BI Desktop was open during this process, please restart it so it can detect the new custom connector.
 
