@@ -1,5 +1,6 @@
 # BacenPowerBIConnector
-This is a PowerBI Custom Connector that enables access to Bacen (Banco Central do Brasil) datasets. Currently, VAT tables are available.
+This is a PowerBI Custom Connector that enables access to Bacen (Banco Central do Brasil) datasets. Currently, only VET tables are available.
+
 This document provides instructions on how to use and set up a Power BI Custom Connector (.mez file) in Power BI. The steps below will guide you through enabling 3rd-party connectors.
 
 **Prerequisites**
